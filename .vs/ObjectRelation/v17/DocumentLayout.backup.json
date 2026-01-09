@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\razdel c\\Desktop\\ObjectRelation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|d:\\razdel c\\desktop\\objectrelation\\objectrelation.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|solutionrelative:objectrelation.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|d:\\razdel c\\desktop\\objectrelation\\objectrelation.lesson\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|solutionrelative:objectrelation.lesson\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|d:\\razdel c\\desktop\\objectrelation\\objectrelation.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|solutionrelative:objectrelation.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|d:\\razdel c\\desktop\\objectrelation\\objectrelation.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E64C-74DA-43E2-932F-9848821E4B91}|ObjectRelation.Lesson\\ObjectRelation.Lesson.csproj|solutionrelative:objectrelation.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 116,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ObjectRelation.Lesson\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "ObjectRelation.Lesson\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:55:14.125Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "ObjectRelation.Lesson\\Models\\Student.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Models\\Student.cs",
               "RelativeToolTip": "ObjectRelation.Lesson\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T15:49:14.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Program.cs",
               "RelativeDocumentMoniker": "ObjectRelation.Lesson\\Program.cs",
-              "ToolTip": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Program.cs*",
-              "RelativeToolTip": "ObjectRelation.Lesson\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\razdel c\\Desktop\\ObjectRelation\\ObjectRelation.Lesson\\Program.cs",
+              "RelativeToolTip": "ObjectRelation.Lesson\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T14:42:22.807Z",
               "EditorCaption": ""

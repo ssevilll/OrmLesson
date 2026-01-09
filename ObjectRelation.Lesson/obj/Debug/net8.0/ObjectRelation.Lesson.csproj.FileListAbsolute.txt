@@ -128,3 +128,4 @@ D:\razdel c\Desktop\ObjectRelation\ObjectRelation.Lesson\obj\Debug\net8.0\refint
 D:\razdel c\Desktop\ObjectRelation\ObjectRelation.Lesson\obj\Debug\net8.0\ObjectRelation.Lesson.pdb
 D:\razdel c\Desktop\ObjectRelation\ObjectRelation.Lesson\obj\Debug\net8.0\ObjectRelation.Lesson.genruntimeconfig.cache
 D:\razdel c\Desktop\ObjectRelation\ObjectRelation.Lesson\obj\Debug\net8.0\ref\ObjectRelation.Lesson.dll
+D:\razdel c\Desktop\ObjectRelation\ObjectRelation.Lesson\obj\Debug\net8.0\ObjectRelation.Lesson.sourcelink.json

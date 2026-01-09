@@ -11,5 +11,11 @@ namespace ObjectRelation.Lesson.Data
             optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=ObjectRelationLessonDb;Trusted_Connection=True;TrustServerCertificate=True;");
             base.OnConfiguring(optionsBuilder);
         }
+        override protected void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Student>().HasKey(s => s.Id); //primary key
+            //modelBuilder.Entity<Student>().Property(s => s.Name).IsRequired().HasMaxLength(100);   //student classde [Required] ve [MaxLength(100)] yazdigimiz ucun bu setiri yazmaga ehtiyac qalmir
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }
