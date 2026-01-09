@@ -17,6 +17,10 @@ namespace ObjectRelation.Lesson.Models
         [MaxLength(500)]
         public string Description { get; set; }
         public int Age { get; set; }
+        public int? GroupId { get; set; } //nullable olmalidir ki group olmayan studentlerde problem olmasin
+        public Group Group { get; set; } //navigation olmalidir ki groupid ile student arasindaki elaqeni qura bilsin
+        public StudentDetail StudentDetail { get; set; } //subjectden studente ordan detaile kecmek olsun
+        public List<SubjectStudent> SubjectStudents { get; set; } //many to many elaqe ucun
         public override string ToString()
         {
             return $"Id: {Id}, Name: {Name}, Description: {Description}, Age: {Age}";
